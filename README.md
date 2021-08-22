@@ -1,47 +1,9 @@
-# ClientRoom
+### API Spring Boot com Grandle, Java e Angular como Front-End para gerenciamento de salas de reunião  - https://digitalinnovation.one/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-## verificar vesao nodejs
-node -v
-
-### verificar versao npm 
-npm -v
-
-### instalar angular 9
-npm install -g @angular/cli@9.0.0-rc.7
-
-### verificar versao angular
-ng --version
-
-### criar projeto 
-ng new client-room
-
-
-
-
-
+- Desenvolvimento de um CRUD com as ferramentas citadas para o grenciamento de salas de reunião [**Digital Innovation One**](https://digitalinnovation.one/)
+- Desenvolvimento do Back-End utilizando a IDE Intellij a linguagem Java com a elaboração dos serviços para a execução da inclusão, alteração, exclusão e listagem, tendo como o Spring Data para a persistência do dados.
+- Desenvolvido o Front-End com a IDE VSCode, Angular com node js e npm para o gerenciamento de pacotes
+- Foi utilizado o banco de dados Postgresql.
+- Sistema operacional Debian 10.
+- [**Front-End**](https://github.com/MaiconMessias/client-room)
+- [**Back-End**](https://github.com/MaiconMessias/gerenciador-sala-reuniao)
